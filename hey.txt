@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Name : Archana.P
 Age  : 15
+=======
+Name : Archana.P
+>>>>>>> feature
