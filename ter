@@ -1,0 +1,73 @@
+[33mcommit d98e4f0e1e2b57a8d4cf1844a3e339213123e81e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 976f80c b4394f6
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 21:01:59 2020 -0700
+
+    Merge branch 'feature' into master
+
+[33mcommit b4394f6cddab71e3740e72fc510e6d40e5a118a3[m[33m ([m[1;32mfeature[m[33m)[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:51:31 2020 -0700
+
+    mother for hey
+
+[33mcommit 976f80c1f22fba29bd7080844bbadc7c66742245[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:41:10 2020 -0700
+
+    added mother name
+
+[33mcommit ae858a5134ba0f44663fcb4e766bf5f3f705998f[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:31:46 2020 -0700
+
+    cleared
+
+[33mcommit bcf7b5efa979b6bbbf20771f1fd9fb7c07e0e238[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:28:17 2020 -0700
+
+    changed
+
+[33mcommit 16e319e78f7aac0c088a05687124f8face88fca2[m
+Merge: 28e907e ae24410
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:23:02 2020 -0700
+
+    added
+
+[33mcommit 28e907e16051e10b2d5cfe288169f96d11ed6d54[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:14:32 2020 -0700
+
+    added name in hey file
+
+[33mcommit ae2441050e878928bc3e47400597701818470ba6[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 20:07:39 2020 -0700
+
+    hey file edited
+
+[33mcommit 52f574a2efaa6df05fe0731468ce72c82b97ee5b[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 19:59:09 2020 -0700
+
+    new
+
+[33mcommit b2a771f68be1eab1420e43c3976e460fd8d064c8[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 19:46:54 2020 -0700
+
+    father name added
+
+[33mcommit 8a2ed5e9fcb63c3e6720bcf4f04ea430a4da3ff6[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 19:34:15 2020 -0700
+
+    added age
+
+[33mcommit 89e28e2938e46280f99b20c46e0b6143ec48a836[m
+Author: rohith sagar <rohithsagars540@gmail.com>
+Date:   Sat Oct 3 19:33:09 2020 -0700
+
+    first commit
