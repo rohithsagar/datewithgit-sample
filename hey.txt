@@ -3,8 +3,4 @@ Name : Archana.P
 Age  : 15
 =======
 Name : Archana.P
-jnjnv
-dnjn
-djnj
-ndjnj
->>>>>>> feature
+
